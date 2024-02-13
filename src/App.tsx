@@ -30,7 +30,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://billyhoangdev.github.io/assets/421509600_408491094999375_4353069539721418744_n.jpg" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">HUEHUEHUEHUE love YOU :)</div>
         </>
       ) : (
         <>
